@@ -1,20 +1,26 @@
-# Evaluasi Produk
+# Evaluasi Awal Produk
 
 ## 1. Kondisi Prototipe
-Prototipe Smart Wound Healing Patch dibuat menggunakan matriks PVA dan kitosan dengan penambahan daun kelor dan bunga telang. Setelah tiga siklus freeze–thaw, produk memiliki tekstur hydrogel yang lunak sehingga karakteristik mekaniknya masih perlu dievaluasi.
 
-## 2. Parameter Evaluasi
-Evaluasi proyek mencakup empat pengujian utama:
-- Uji swelling untuk mengevaluasi kemampuan penyerapan cairan.
-- Uji kelembapan untuk mengevaluasi parameter kadar atau retensi air sesuai metode yang digunakan.
-- Surface pH test untuk mengukur pH permukaan sampel.
-- Uji antibakteri untuk mengevaluasi aktivitas sampel terhadap bakteri uji melalui metode laboratorium yang sesuai.
+Prototipe Smart Wound Healing Patch dikembangkan menggunakan matriks PVA dan kitosan dengan penambahan bahan berbasis daun kelor dan bunga telang. Pembentukan hidrogel dilakukan menggunakan metode *freeze–thaw* sebanyak tiga siklus.
 
-## 3. Interpretasi Hasil
-Hasil setiap pengujian akan dibahas berdasarkan data aktual, metode pengukuran, dan referensi ilmiah yang relevan. Kesimpulan tidak dibuat sebelum data dianalisis.
+Berdasarkan pengamatan setelah proses pembuatan, hidrogel masih memiliki tekstur lunak dan menyerupai gel. Kondisi tersebut menjadi salah satu aspek yang perlu dievaluasi lebih lanjut untuk mengetahui kesesuaian karakteristik fisik prototipe dengan tujuan pengembangannya.
 
-## 4. Keterbatasan
-Prototipe masih memerlukan evaluasi lebih lanjut terkait kestabilan fisik, karakteristik permukaan, dan hasil pengujian laboratorium. Produk belum dinyatakan aman untuk penggunaan langsung pada luka.
+## 2. Rencana Evaluasi
 
-## 5. Rencana Perbaikan
-Rencana perbaikan disusun berdasarkan hasil pengujian aktual, termasuk kemungkinan optimasi formulasi, kestabilan bentuk hydrogel, dan evaluasi respons indikator pH.
+Evaluasi lanjutan direncanakan melalui empat pengujian, yaitu:
+
+1. **Uji *swelling*** untuk mengevaluasi kemampuan hidrogel menyerap cairan.
+2. **Uji kelembapan** untuk mengevaluasi karakteristik kelembapan berdasarkan metode yang digunakan.
+3. **Uji pH permukaan** untuk mengetahui nilai pH permukaan hidrogel.
+4. **Uji antibakteri** untuk mengevaluasi aktivitas antibakteri melalui pengujian laboratorium yang sesuai.
+
+## 3. Aspek yang Perlu Dioptimalkan
+
+Optimasi akan dipertimbangkan berdasarkan hasil pengamatan dan pengujian selanjutnya, terutama terkait konsistensi hidrogel, karakteristik fisik, nilai pH permukaan, serta aktivitas antibakteri. Keputusan mengenai perubahan formulasi atau metode pembuatan akan dibuat setelah tersedia data pendukung.
+
+## 4. Kesimpulan Sementara
+
+Prototipe telah melalui tahap awal pembuatan dan dokumentasi visual. Namun, karakteristik dan kinerjanya belum dapat disimpulkan karena pengujian *swelling*, kelembapan, pH permukaan, dan antibakteri belum dilakukan. Oleh karena itu, diperlukan pengujian lebih lanjut sebelum menilai potensi penggunaannya sebagai material penutup luka.
+
+
